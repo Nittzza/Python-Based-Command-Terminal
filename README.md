@@ -1,4 +1,4 @@
-# Simple Python Terminal
+# Python Terminal
 
 A lightweight Python-based command terminal with ASCII art and essential features.
 
@@ -64,4 +64,4 @@ terminal@Documents: /Users/user/Documents$ sysinfo
 
 - Python 3.6+
 - psutil (for system monitoring)
-# Python-Based-Command-Terminal
+
